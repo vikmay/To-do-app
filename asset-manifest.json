@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vikmay/To-do-app/static/css/main.4342fdfe.css",
+    "main.js": "/vikmay/To-do-app/static/js/main.130f7ca5.js",
+    "index.html": "/vikmay/To-do-app/index.html",
+    "main.4342fdfe.css.map": "/vikmay/To-do-app/static/css/main.4342fdfe.css.map",
+    "main.130f7ca5.js.map": "/vikmay/To-do-app/static/js/main.130f7ca5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4342fdfe.css",
+    "static/js/main.130f7ca5.js"
+  ]
+}
